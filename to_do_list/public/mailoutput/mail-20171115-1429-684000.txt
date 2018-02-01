@@ -1,0 +1,17 @@
+To: puja.das@cispl.biz
+Subject: 
+Message-ID: <0c84f985cda7df93f267a3ed1e9e10ac@localhost>
+Date: Wed, 15 Nov 2017 14:29:23 +0000
+From: Puja Das <me@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head></head>
+<body style=3D"background: black; color: white">
+<h1>{{$title}}</h1>
+<p>{{$content}}</p>
+</body>
+</html>
+
